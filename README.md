@@ -6,7 +6,9 @@ SkyControl simulates an air traffic control tower where aircraft movements, land
 
 ## 🌐 Live Demo
 
-**Coming soon — GitHub Pages deployment is being configured.**
+**[Launch SkyControl Live Demo](https://av-akshayprasanna.github.io/Air-Traffic-Management-System/)**
+
+Access the interactive air traffic control simulation directly in your browser.
 
 ## 📌 About the Project
 
